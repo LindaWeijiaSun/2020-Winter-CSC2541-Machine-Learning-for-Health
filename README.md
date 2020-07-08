@@ -1,4 +1,6 @@
 # 2020-Winter-CSC2541-Machine-Learning-for-Health
+University of Toronto
+
 CSC2541 Topics in Machine Learning: Machine Learning for Health (ML4H); 
 
 **Instructor**: Dr. Marzyeh Ghassemi; 
